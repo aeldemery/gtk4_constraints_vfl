@@ -25,4 +25,4 @@ Simple `meson` project.
 
 ## Screenshot <a name = "screenshot"></a>
 
-![Sceenshot](https://github.com/aeldemery/gtk4_constraints_vfl/blob/master/Screenshot%201.gif)
+![Sceenshot](https://github.com/aeldemery/gtk4_constraints_vfl/blob/master/Screenshot%201.png)
